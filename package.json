@@ -1,6 +1,6 @@
 {
-  "name": "syncEventListener",
-  "version": "1.0.0",
+  "name": "sync-event-listener",
+  "version": "0.1.0",
   "description": "",
   "main": "syncEventListener.js",
   "scripts": {
