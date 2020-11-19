@@ -11,10 +11,11 @@
     "url": "git+https://github.com/ElionTDA/syncEventListener.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Diego Martín Pérez <info@teyostudios.es> (https://teyoStudios.es)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ElionTDA/syncEventListener/issues"
   },
-  "homepage": "https://github.com/ElionTDA/syncEventListener#readme"
+  "homepage": "https://github.com/ElionTDA/syncEventListener#readme",
+  "files": ["src", "package.json", "README.md", "LICENCE"]
 }
