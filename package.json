@@ -1,21 +1,21 @@
 {
-  "name": "sync-event-listener",
+  "name": "@teyostudios/sync-event-listener",
   "version": "0.1.0",
-  "description": "",
+  "description": "Synchronize your existing events, over downloaded html content with ajax",
   "main": "syncEventListener.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElionTDA/syncEventListener.git"
+    "url": "git+https://github.com/TeyoStudios/sync-event-listener.git"
   },
   "keywords": [],
   "author": "Diego Martín Pérez <info@teyostudios.es> (https://teyoStudios.es)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ElionTDA/syncEventListener/issues"
+    "url": "https://github.com/TeyoStudios/sync-event-listener/issues"
   },
-  "homepage": "https://github.com/ElionTDA/syncEventListener#readme",
+  "homepage": "https://github.com/TeyoStudios/sync-event-listener#readme",
   "files": ["src", "package.json", "README.md", "LICENCE"]
 }
